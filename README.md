@@ -8,6 +8,8 @@ Contém os exercícios resolvidos da lista de exercício sobre Análise Estatís
     <li>Normaliza as séries criadas acima entre 0 e 1 e obtém o respectivo Histograma. </li>
     <li>Calcula os 4 momentos estatísticos respectivos.</li>
     <li>Aplica a técnica K-means para caracterizar, se houver, classes nos espaço de parâmetros composto por variância, skewness e kurtosis. </li>
+    <li>Obtém os valores
+respectivos do seguintes atributos: S2 , K, β (via PSD) e α (via DFA)</li>
   </ul>
 
 <h1><a href="https://github.com/YuriDomaradzki/-Lista-Mat-Comp-INPE-Yuri/tree/master/Pmodel">PModel</a></h1>
@@ -16,6 +18,8 @@ Contém os exercícios resolvidos da lista de exercício sobre Análise Estatís
     <li>Obtém o respectivo Histograma. </li>
     <li>Calcula os 4 momentos estatísticos respectivos.</li>
     <li>Aplica a técnica K-means para caracterizar, se houver, classes nos espaço de parâmetros composto por variância, skewness e kurtosis. </li>
+    <li>Obtém os valores
+respectivos do seguintes atributos: S2 , K, β (via PSD) e α (via DFA)</li>
   </ul>
 
 <h1><a href="https://github.com/YuriDomaradzki/-Lista-Mat-Comp-INPE-Yuri/tree/master/Colored%20Noise">Colored Noise</a></h1>
@@ -24,6 +28,8 @@ Contém os exercícios resolvidos da lista de exercício sobre Análise Estatís
     <li>Obtém o respectivo Histograma. </li>
     <li>Calcula os 4 momentos estatísticos respectivos.</li>
     <li>Aplica a técnica K-means para caracterizar, se houver, classes nos espaço de parâmetros composto por variância, skewness e kurtosis. </li>
+    <li>Obtém os valores
+respectivos do seguintes atributos: S2 , K, β (via PSD) e α (via DFA)</li>
   </ul>
 
 <h1><a href="https://github.com/YuriDomaradzki/-Lista-Mat-Comp-INPE-Yuri/tree/master/Cullen_frey"> Espaço de Cullen-Frey e Distribuições de Probabilidades </a></h1>
@@ -37,16 +43,23 @@ Contém os exercícios resolvidos da lista de exercício sobre Análise Estatís
     <li> Gera 2 famílias de series Temporais com 30 séries em cada uma. Para a família logística varia o parâmetro ρ na faixa
 (3.85 a 4.05). Para gerar a família Henon varia os parâmetros a e b nas respectivas faixas: (de 1.350 a 1.420) e (0.210-0.310). </li>
     <li> Aplica o mapeamento de cullen and frey e ajusta a PDF do histograma de cada um.</li>
-  </ul>
-  
-  <h1><a href="https://github.com/YuriDomaradzki/-Lista-Mat-Comp-INPE-Yuri/tree/master/MDFA"> PSD e DFA </a></h1>
-  <ul>
-    <li> Obtém, para cada série, os valores respectivos do seguintes atributos: S2 , K, β (via PSD) e α (via DFA) </li>
-    <li> Confere todas as series se β (via PSD) está bem ajustado a partir da formula WKP: β = 2 α – 1. </li>
-    <li>  Constrói dois espaços de parâmetros EPSB-K-means: S2 x K x β e EDF-K-means: S2 x K x α .</li>
+    <li>Obtém os valores
+respectivos do seguintes atributos: S2 , K, β (via PSD) e α (via DFA)</li>
   </ul>
   
   <h1><a href="https://github.com/YuriDomaradzki/-Lista-Mat-Comp-INPE-Yuri/tree/master/Ex%206.2"> Ex 6.2 </a></h1>
   <ul>
     <li>Classifica, nos espaços de parâmetros do PSD e DFA, as séries temporais: (a) ST-Sol3GHz, (b) ST-surftemp504 e (c) ST-OWS_NDC_Covid1 para a Nova Zelãndia.  </li>
+  </ul>
+
+  <h1><a href="https://github.com/YuriDomaradzki/-Lista-Mat-Comp-INPE-Yuri/tree/master/Ex%206.3"> Ex 6.3 </a></h1>
+  <ul>
+    <li> Aplica k-means para todas as series ST-OWS_NDC_Covid1 considerando os seguintes
+Espaços de atributos: S2 x α e K x α. Obtém os melhores agrupamentos e identifique os grupos. </li>
+  </ul>
+  
+  <h1><a href="https://github.com/YuriDomaradzki/-Lista-Mat-Comp-INPE-Yuri/tree/master/MDFA"> MDFA </a></h1>
+  <ul>
+    <li> Aplica k-means para todas as series ST-OWS_NDC_Covid1 considerando os seguintes
+Espaços de atributos: S2 x α e K x α. Obtém os melhores agrupamentos e identifique os grupos. </li>
   </ul>
