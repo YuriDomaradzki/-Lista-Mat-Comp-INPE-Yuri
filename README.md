@@ -64,7 +64,13 @@ Espaços de atributos: S2 x α e K x α. Obtém os melhores agrupamentos e ident
  de Ψ como mais um atributo </li>
   </ul>
 
-  <h1><a href="https://github.com/YuriDomaradzki/-Lista-Mat-Comp-INPE-Yuri/tree/master/MDFA"> Global Wavelet Spectrum  </a></h1>
+  <h1>Global Wavelet Spectrum</h1>
   <ul>
     <li>Obtém o Global Wavelet Spectrum de todas as séries temporais do dataset_signal à partir dos resultados obtidos no exercícios 6.2</li>
+  </ul>
+  
+  <h1><a href="https://github.com/YuriDomaradzki/-Lista-Mat-Comp-INPE-Yuri/tree/master/SOC"> Self Organized Criticality </a></h1>
+  <ul>
+    <li> Gera 100 Séries Temporais (50 exo e 50 endo) com p-model para N=8192  e aplica SOC.py para as 50 de cada grupo</li>
+    <li> Aplica o SOC.py para todas as Séries Temporais do exercício 6.3. </li>
   </ul>
