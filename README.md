@@ -60,6 +60,11 @@ Espaços de atributos: S2 x α e K x α. Obtém os melhores agrupamentos e ident
   
   <h1><a href="https://github.com/YuriDomaradzki/-Lista-Mat-Comp-INPE-Yuri/tree/master/MDFA"> MDFA </a></h1>
   <ul>
-    <li> Aplica k-means para todas as series ST-OWS_NDC_Covid1 considerando os seguintes
-Espaços de atributos: S2 x α e K x α. Obtém os melhores agrupamentos e identifique os grupos. </li>
+    <li>Obtém o espectro de singularidade para todos os sinais do dataset_signal e inclue os valores
+ de Ψ como mais um atributo </li>
+  </ul>
+
+  <h1><a href="https://github.com/YuriDomaradzki/-Lista-Mat-Comp-INPE-Yuri/tree/master/MDFA"> Global Wavelet Spectrum  </a></h1>
+  <ul>
+    <li>Obtém o Global Wavelet Spectrum de todas as séries temporais do dataset_signal à partir dos resultados obtidos no exercícios 6.2</li>
   </ul>
