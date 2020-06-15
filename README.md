@@ -17,3 +17,11 @@ Contém os exercícios resolvidos da lista de exercício sobre Análise Estatís
     <li>Calcula os 4 momentos estatísticos respectivos.</li>
     <li>Aplica a técnica K-means para caracterizar, se houver, classes nos espaço de parâmetros composto por variância, skewness e kurtosis. </li>
   </ul>
+
+<h1><a href="https://github.com/YuriDomaradzki/-Lista-Mat-Comp-INPE-Yuri/tree/master/Colored%20Noise">Colored Noise</a></h1>
+  <ul>
+    <li>Gera 30 sinais para 2 famílias com N 8192 elementos. As famílias são: endógeno e exógeno. Para endógeno é considerado 3 valores de p na faixa (0.32-0.42) e exógeno é considerado 3 valores de p na faixa (0.18-0.28). </li>
+    <li>Obtém o respectivo Histograma. </li>
+    <li>Calcula os 4 momentos estatísticos respectivos.</li>
+    <li>Aplica a técnica K-means para caracterizar, se houver, classes nos espaço de parâmetros composto por variância, skewness e kurtosis. </li>
+  </ul>
