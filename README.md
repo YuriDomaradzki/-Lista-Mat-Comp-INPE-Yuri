@@ -42,4 +42,11 @@ Contém os exercícios resolvidos da lista de exercício sobre Análise Estatís
   <h1><a href="https://github.com/YuriDomaradzki/-Lista-Mat-Comp-INPE-Yuri/tree/master/MDFA"> PSD e DFA </a></h1>
   <ul>
     <li> Obtém, para cada série, os valores respectivos do seguintes atributos: S2 , K, β (via PSD) e α (via DFA) </li>
+    <li> Confere todas as series se β (via PSD) está bem ajustado a partir da formula WKP: β = 2 α – 1. </li>
+    <li>  Constrói dois espaços de parâmetros EPSB-K-means: S2 x K x β e EDF-K-means: S2 x K x α .</li>
+  </ul>
+  
+  <h1><a href="https://github.com/YuriDomaradzki/-Lista-Mat-Comp-INPE-Yuri/tree/master/Ex%206.2"> Ex 6.2 </a></h1>
+  <ul>
+    <li>Classifica, nos espaços de parâmetros do PSD e DFA, as séries temporais: (a) ST-Sol3GHz, (b) ST-surftemp504 e (c) ST-OWS_NDC_Covid1 para a Nova Zelãndia.  </li>
   </ul>
