@@ -38,3 +38,8 @@ Contém os exercícios resolvidos da lista de exercício sobre Análise Estatís
 (3.85 a 4.05). Para gerar a família Henon varia os parâmetros a e b nas respectivas faixas: (de 1.350 a 1.420) e (0.210-0.310). </li>
     <li> Aplica o mapeamento de cullen and frey e ajusta a PDF do histograma de cada um.</li>
   </ul>
+  
+    <h1><a href="https://github.com/YuriDomaradzki/-Lista-Mat-Comp-INPE-Yuri/tree/master/MDFA"> PSD e DFA </a></h1>
+  <ul>
+    <li> Obtém, para cada série, os valores respectivos do seguintes atributos: S2 , K, β (via PSD) e α (via DFA) </li>
+  </ul>
