@@ -39,7 +39,7 @@ Contém os exercícios resolvidos da lista de exercício sobre Análise Estatís
     <li> Aplica o mapeamento de cullen and frey e ajusta a PDF do histograma de cada um.</li>
   </ul>
   
-    <h1><a href="https://github.com/YuriDomaradzki/-Lista-Mat-Comp-INPE-Yuri/tree/master/MDFA"> PSD e DFA </a></h1>
+  <h1><a href="https://github.com/YuriDomaradzki/-Lista-Mat-Comp-INPE-Yuri/tree/master/MDFA"> PSD e DFA </a></h1>
   <ul>
     <li> Obtém, para cada série, os valores respectivos do seguintes atributos: S2 , K, β (via PSD) e α (via DFA) </li>
   </ul>
